@@ -1,7 +1,12 @@
+.main {
+    text-align: center;
+}
+
+
 .logo-img {
     display: block;
     width: 100px;
     height: auto;
     margin: 0 auto;
-    
+
 }
